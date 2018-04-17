@@ -1,0 +1,13 @@
+﻿  Audio_encode.cc
+g:\myproj\c_plus_plus\audio\audioloopback\audioloopback\audio_encode.cc(114): warning C4101: 'samples': unreferenced local variable
+g:\myproj\c_plus_plus\audio\audioloopback\audioloopback\audio_encode.cc(115): warning C4101: 'tincr': unreferenced local variable
+g:\myproj\c_plus_plus\audio\audioloopback\audioloopback\audio_encode.cc(113): warning C4101: 'k': unreferenced local variable
+g:\myproj\c_plus_plus\audio\audioloopback\audioloopback\audio_encode.cc(113): warning C4101: 'j': unreferenced local variable
+g:\myproj\c_plus_plus\audio\audioloopback\audioloopback\audio_encode.cc(113): warning C4101: 'i': unreferenced local variable
+g:\myproj\c_plus_plus\audio\audioloopback\audioloopback\audio_encode.cc(115): warning C4101: 't': unreferenced local variable
+  Generating Code...
+g:\myproj\c_plus_plus\audio\audioloopback\audioloopback\audio_encode.cc(221): warning C4715: 'AudioEncoder::process': not all control paths return a value
+  Compiling...
+  AudioLoopBack.cpp
+  Generating Code...
+  AudioLoopBack.vcxproj -> G:\MyProj\c_plus_plus\Audio\AudioLoopBack\Debug\AudioLoopBack.exe
